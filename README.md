@@ -1,0 +1,2 @@
+•	Conducted a detailed analysis of Sales distribution and marketing trends for Adidas US to identify key features affecting total sales. Used SAS and SQL for data manipulation and analysis, leveraging procedures to explore customer attributes, including demographics, product details and billing data
+•	Provided actionable recommendations for reducing loss, including targeted offers, personalized customer engagement strategies, and improvements to service offerings
